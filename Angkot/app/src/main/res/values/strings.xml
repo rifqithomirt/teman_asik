@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Angkot</string>
+    <string name="title_activity_home_page">Map</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="title_app">Teman Asik</string>
+    <string name="title_scrollview">Rekomendasi Angkutan</string>
+    <string name="title_buttonHeader">Lihat Rute Angkutan</string>
+    <string name="title_bottomSheet">Daftar Angkutan</string>
+</resources>
